@@ -1,12 +1,13 @@
-* MarketScan Project: HPV Virginia Project                                                      *
-* Programmer: Jacob Jameson                                                                     *
-* Date: 7/14/22                                                                                 *
-* Plan: Look for HPV vaccines - ages 9-20 -- 2007-2018.  								                      	*
-*       Marketscan data -- Commerical sample													                          *
-*       ††HPV, 3 doses required, starting age 11: 												                      *
-*	          (1) initial dose between age 11-12 yo 												                      *
-*           (2) second dose 1-2 months after initial dose and 								                	*
-*           (3) third dose six months after the initial dose								                    *
+*************************************************************************************************;
+* MarketScan Project: HPV Virginia Project                                                      
+* Programmer: Jacob Jameson                                                                     
+* Date: 7/14/22                                                                                 
+* Plan: Look for HPV vaccines - ages 9-20 -- 2007-2018.  								                      	
+*       Marketscan data -- Commerical sample													                          
+*       ††HPV, 3 doses required, starting age 11: 												                      
+*	          (1) initial dose between age 11-12 yo 												                      
+*           (2) second dose 1-2 months after initial dose and 								                	
+*           (3) third dose six months after the initial dose								                    
 *************************************************************************************************;
 
 
